@@ -1,6 +1,6 @@
 {
   "name": "@joshmg-77/debounce-helper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Debounce helper created with vanilla js",
   "main": "index.js",
   "type": "module",
