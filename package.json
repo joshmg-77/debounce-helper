@@ -15,6 +15,11 @@
     "debouncing",
     "debounce-helper"
   ],
+  "homepage": "https://github.com/joshmg-77/debounce-helper#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshmg-77/debounce-helper"
+  },
   "author": "joshmg-77",
   "license": "MIT",
   "dependencies": {

@@ -13,7 +13,7 @@ Simple debounce for all javascript environments, can be used in React, Vanilla j
 Debounce-helper can use any version of Node to run.
 
 **Npm**
-```js
+```sh
 npm i @joshmg-77/debounce-helper --save-dev
 ```
 **Yarn**
